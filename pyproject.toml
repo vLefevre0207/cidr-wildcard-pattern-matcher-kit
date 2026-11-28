@@ -1,6 +1,6 @@
 [project]
 name = "cidr-wildcard-pattern-matcher-kit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Checks IPv4 addresses against wildcard patterns and CIDR ranges."
 requires-python = ">=3.10"
 dependencies = []
